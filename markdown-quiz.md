@@ -19,6 +19,38 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 
 <!-- QUIZ-START -->
 
-Replace this line with your Markdown answers.
+# Heading
+
+**Bold** 
+
+*Italic*
+
+1. First item
+2. Second item
+3. Third item
+
+- First item
+- Second item
+- Third item
+
+[title](https://www.example.com)
+
+`Inline code`
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+- [ ] ABC
+- [ ] DEF
+
+> blockquote
+
+| Something | Description |
+| ----------- | ----------- |
+| 222 | 444 |
+| 333 | 555 |
 
 <!-- QUIZ-END -->
