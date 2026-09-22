@@ -19,11 +19,11 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 
 <!-- QUIZ-START -->
 
-# Heading
+# My Markdown Skills
 
-**Bold** 
+**This is a sentence contain Bold** 
 
-*Italic*
+*This is a sentence contain Italic*
 
 1. First item
 2. Second item
@@ -33,22 +33,21 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 - Second item
 - Third item
 
-[title](https://www.example.com)
+[Github hbycwyh2008](https://www.github.com/hbycwyh2008)
 
-`Inline code`
+`git status`
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+`git add .`
+`git commit -m "markdown quiz"`
 ```
 
-- [ ] ABC
-- [ ] DEF
+- [x] Checked
+- [ ] Unchecked 
 
-> blockquote
+> Completed sentence, very long long long
 
-| Something | Description |
+| Header | Data |
 | ----------- | ----------- |
 | 222 | 444 |
 | 333 | 555 |
